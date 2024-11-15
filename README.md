@@ -18,7 +18,7 @@
 * Capture from desktop.
 * Many recording formats.
 * Virtual webcam support for feeding other programs (GNU/Linux, Mac, Windows)
-
+ 
 ## Build and Install ##
 
 Visit the [wiki](https://github.com/webcamoid/webcamoid/wiki) for a comprehensive compile and install instructions.
